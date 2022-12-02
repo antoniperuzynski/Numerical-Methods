@@ -1,5 +1,5 @@
 # Numerical-Methods
-## Numeric methods
+## Numerical methods
 This branch consist of projects from course: Numeric methods - Metody numeryczne. This course took place at Bachelor's Degree.  
 Class instructors: <i> prof. dr hab. inż. Damian Słota, mgr Agata Chmielowska </i>.  
 Projects
