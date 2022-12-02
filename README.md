@@ -1,5 +1,5 @@
 # Numerical-Methods
-## Numeric Methods
+## Numerical Methods in Technique
 This branch consist of projects from course: Numeric methods in technique - Metody numeryczne w technice. This course took place at Master's Degree.  
 Class instructors: <i> prof. dr hab. inż. Damian Słota </i>.  
 Projects
