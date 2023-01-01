@@ -9,5 +9,7 @@ Projects
   4. Lab 2.4 - Predictor Corrector Method
   5. Lab 2.5 - Method Of Successive Approximations
   6. Lab 2.6 - Finite Sum Method
+  7. Lab 2.7 - Finite difference method part 1
+  8. Lab 2.8 - Finite difference method part 2
    
 Comments in a code and variables can be written in Polish Language.
