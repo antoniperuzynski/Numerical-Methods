@@ -1,6 +1,6 @@
 # Numerical-Methods
 
-Repository for projects from Numerical-Methods Lab.
+Repository for projects from Numerical-Methods Laboratory.
 
 This repository consists of projects from 3 courses which I had at Silesian University of Technology. Has 3 branches each for 1 course.
   1. Numerical methods - Metody numeryczne (NM).
