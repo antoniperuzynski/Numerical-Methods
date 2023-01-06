@@ -1,5 +1,4 @@
 # Numerical-Methods
-<<<<<<< HEAD
 
 Repository for projects from Numerical-Methods Laboratory.
 
@@ -8,7 +7,7 @@ This repository consists of projects from 3 courses which I had at Silesian Univ
   2. Numerical methods in technique - Metody numeryczne w technice (NMT).
   3. Selected methods of mathematical modeling - Wybrane metody modelowania matematycznego (SMMM).   
  
-##Numerical methods
+## Numerical methods
 This folder consist of projects from course: Numeric methods - Metody numeryczne. This course took place at Bachelor's Degree.  
 Class instructors: <i> prof. dr hab. inż. Damian Słota, mgr Agata Chmielowska </i>.  
 Projects
