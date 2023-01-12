@@ -8,9 +8,8 @@ This repository consists of projects from 3 courses which I had at Silesian Univ
   3. Selected methods of mathematical modeling - Wybrane metody modelowania matematycznego (SMMM).   
  
 ## Numerical methods
-This folder consist of projects from course: Numeric methods - Metody numeryczne. This course took place at Bachelor's Degree.  
-Class instructors: <i> prof. dr hab. inż. Damian Słota, mgr Agata Chmielowska </i>.  
-Projects
+This folder consist of projects from course: Numeric methods - Metody numeryczne. This course took place at Bachelor's Degree. Class instructors: <i> prof. dr hab. inż. Damian Słota, mgr Agata Chmielowska </i>.  
+Projects: 
   1. Lab 1.1 - Bisection Method
   2. Lab 1.2 - Newton's Method
   3. Lab 1.3 - Gaussian Elimination Method
@@ -21,9 +20,8 @@ Projects
   8. Lab 1.8 - Numerical Integration. Newton-Cotes Quadrature
   
  ## Numerical Methods in Technique
-This folder consist of projects from course:  Numeric methods in technique - Metody numeryczne w technice. This course took place at Master's Degree.  
-Class instructors: <i> prof. dr hab. inż. Damian Słota </i>.  
-Projects
+This folder consist of projects from course:  Numeric methods in technique - Metody numeryczne w technice. This course took place at Master's Degree. Class instructors: <i> prof. dr hab. inż. Damian Słota </i>.  
+Projects:
   1. Lab 2.1 - Runge-Kutty Method
   2. Lab 2.2 - Adams-Bashforth Method
   3. Lab 2.3 - Adams-Moulton Method
@@ -33,7 +31,5 @@ Projects
   7. Lab 2.7 - Finite difference method part 1
   8. Lab 2.8 - Finite difference method part 2
    
-Comments in a code and variables can be written in Polish Language.
-
 Most projects are written using Software Mathematica-Wolfram.  
 Comments in a code and variables can be written in Polish Language.
