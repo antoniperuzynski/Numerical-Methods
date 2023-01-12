@@ -30,6 +30,8 @@ Projects:
   6. Lab 2.6 - Finite Sum Method
   7. Lab 2.7 - Finite difference method part 1
   8. Lab 2.8 - Finite difference method part 2
+  9. Lab 2.9 - Weighted deviation method part 1 
+  10. Lab 2.10 - Weighted deviation method part 2
    
 Most projects are written using Software Mathematica-Wolfram.  
 Comments in a code and variables can be written in Polish Language.
